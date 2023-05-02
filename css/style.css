@@ -49,7 +49,26 @@ table {
     background-color: lightblue;
   }
   
+h3{
+    color:gray
+}
+
+.image-container {
+    position: relative;
+  }
   
+  .image-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    color: white;
+    font-size: 24px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+  }
+  
+
+
+
   
   
   
