@@ -13,6 +13,10 @@
     color: grey;
 }
 
+.booleaner{
+    color: lightblue;
+}
+
 .data{
     font-size: 10px;
     color: grey;
@@ -20,4 +24,8 @@
 
 .descrizione-foto{
     font-size: 10px;
+}
+
+#underline{
+    background-color: yellow;
 }
