@@ -1,0 +1,23 @@
+.sfondo{
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+    background-position: center;
+}
+
+.logo{
+    width: 30%;
+}
+
+.autore{
+    font-size: 15px;
+    color: grey;
+}
+
+.data{
+    font-size: 10px;
+    color: grey;
+}
+
+.descrizione-foto{
+    font-size: 10px;
+}
